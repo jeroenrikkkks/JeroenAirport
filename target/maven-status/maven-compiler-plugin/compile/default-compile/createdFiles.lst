@@ -1,0 +1,6 @@
+com\AirportJeroen\Airport\repository\PlaneRepository.class
+com\AirportJeroen\Airport\repository\PlaceRepository.class
+com\AirportJeroen\Airport\model\Place.class
+com\AirportJeroen\Airport\AirportApplication.class
+com\AirportJeroen\Airport\controller\AirportController.class
+com\AirportJeroen\Airport\model\Airplane.class
